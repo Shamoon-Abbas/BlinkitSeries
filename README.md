@@ -36,12 +36,15 @@
 ---
 
 ## 📸 Screenshots
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
+
+<div align="center">
+  <img src="img.png" width="200" />
+  <img src="img_1.png" width="200" />
+  <img src="img_2.png" width="200" />
+  <img src="img_3.png" width="200" />
+  <img src="img_4.png" width="200" />
+  <img src="img_5.png" width="200" />
+</div>
 
 ---
 
