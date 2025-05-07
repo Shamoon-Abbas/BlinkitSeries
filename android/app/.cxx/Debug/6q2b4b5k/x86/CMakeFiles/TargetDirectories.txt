@@ -1,0 +1,2 @@
+D:/Aaaaaaaa/StudioProjects/blinkit_series/android/app/.cxx/Debug/6q2b4b5k/x86/CMakeFiles/edit_cache.dir
+D:/Aaaaaaaa/StudioProjects/blinkit_series/android/app/.cxx/Debug/6q2b4b5k/x86/CMakeFiles/rebuild_cache.dir
